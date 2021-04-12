@@ -7,4 +7,4 @@ Assignmnet 10 for GEOG 4046
 
 ## Photo Map Tour
   A map of interesting points in National Parks in the western region of the United States. Click the points to display phots and descriptions.
-  
+  <astaff8.github.io/photomap>
